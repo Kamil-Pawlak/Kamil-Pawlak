@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BabaYagaPROP
+- 👋 Hi, I’m Kamil Pawlak
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
