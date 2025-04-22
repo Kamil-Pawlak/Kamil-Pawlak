@@ -32,7 +32,7 @@ Most of my work has been private so far, but I am working on making more of it p
 
 ---
 
-###📚 Currently Exploring
+### 📚 Currently Exploring
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" alt="expressjs" /> <img src="https://img.shields.io/badge/REST-API-blue?style=flat-square&logo=api&logoColor=white" height="40" alt="rest" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" /> </p>
 
 ---
